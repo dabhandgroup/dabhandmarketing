@@ -1,0 +1,11 @@
+body.elementor-kit-4974 button,body.elementor-kit-4974 input[type="button"],body.elementor-kit-4974 input[type="submit"],body.elementor-kit-4974 .elementor-button{font-family:"Felt Tip Roman", Sans-serif;color:#3C93D0;background-color:rgba(255, 255, 255, 0);border-style:solid;border-width:2px 2px 2px 2px;border-color:#3C93D0;border-radius:5px 5px 5px 5px;}body.elementor-kit-4974 button:hover,body.elementor-kit-4974 button:focus,body.elementor-kit-4974 input[type="button"]:hover,body.elementor-kit-4974 input[type="button"]:focus,body.elementor-kit-4974 input[type="submit"]:hover,body.elementor-kit-4974 input[type="submit"]:focus,body.elementor-kit-4974 .elementor-button:hover,body.elementor-kit-4974 .elementor-button:focus{color:#FFFFFF;background-color:#3C93D0;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Felt Tip Roman';
+	font-style: normal;
+	font-weight: normal;
+	src: url('/wp-content/uploads/2019/06/FeltTipRoman.eot');
+	src: url('/wp-content/uploads/2019/06/FeltTipRoman.eot?#iefix') format('embedded-opentype'),
+		url('/wp-content/uploads/2019/06/FeltTipRoman.woff2') format('woff2'),
+		url('/wp-content/uploads/2019/06/FeltTipRoman.woff') format('woff'),
+		url('/wp-content/uploads/2019/06/FeltTipRoman.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
